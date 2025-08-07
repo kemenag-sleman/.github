@@ -1,4 +1,4 @@
-# 🖥️ Pranata Komputer Ahli Pertama - Kemenag Sleman
+# 🖥️ Pranata Komputer - Kemenag Sleman
 
 <div align="center">
   <img src="https://img.shields.io/badge/Kementerian%20Agama-Sleman-green?style=for-the-badge" alt="Kemenag Sleman">
